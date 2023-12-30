@@ -1,0 +1,11 @@
+{
+    "name": "acer/phpiggy",
+    "description": "a php app tracking",
+    "type": "project",
+    "require": {},
+    "autoload": {"psr-4":{
+        "Framework\\": "src/Framework",
+        "App\\": "src/App"
+
+    }}
+}
